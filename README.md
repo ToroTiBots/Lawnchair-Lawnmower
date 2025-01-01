@@ -30,37 +30,11 @@ This branch houses the codebase of Lawnchair 15, which is currently in developme
 -   **Customization Options:** Provides options to tweak icons, fonts, and colors to your liking.
 -   And more!
 
-## Download
+## Scams and false versions
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=app.lawnchair.play">
-    <picture>
-      <!-- Avoid image being clickable with slight workaround -->
-      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/badge-google-play.png" height="60">
-      <img alt="Get it on Google Play" src="docs/assets/badge-google-play.png" height="60">
-    </picture>
-  </a>
-  <a href="https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/badge-izzyondroid.png" height="60">
-      <img alt="Get it on IzzyOnDroid" src="docs/assets/badge-izzyondroid.png" height="60">
-    </picture>
-  </a>
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/LawnchairLauncher/lawnchair/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/badge-obtainium.png" height="60">
-      <img alt="Get it on Obtainium" src="docs/assets/badge-obtainium.png" height="60">
-    </picture>
-  </a>
-    <a href="https://github.com/LawnchairLauncher/lawnchair/releases/latest">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/badge-github.png" height="60">
-      <img alt="Get it on GitHub" src="docs/assets/badge-github.png" height="60">
-    </picture>
-  </a>
-</p>
+Lawnmower was originally not a fork and just a fan made version of lawnchair. Sadly it's development was cut short but that did not stop people from making forks to give viruses on your phone.
 
-Lawnchair on Play Store will install as a different app from other sources. Some features may be restricted to comply with Google Play's publishing rules.
+ONLY DOWNLOAD LAWNMOWER FROM THE OFFICIAL PAGE. This page is the ONLY way to download lawnmower safely. Take caution when downloading it from other stores or websites and never pay money for it. It is a free project that i made in my spare time.
 
 ### Development builds
 
